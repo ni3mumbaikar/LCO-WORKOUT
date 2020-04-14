@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LCO WORKOUT</string>
+    <string name="app_logo">App Logo</string>
+    <string name="design_credits">Designed by ni3mumbaikar with</string>
+    <string name="heart_unicode">❤</string>
+    <string name="random_msg">"5 Exercises will be selected randomly \n\nYou can shuffle the list if you don't like recommended exercises"</string>
+    <string name="licensing">License for every asset(Image, Music) is either free to use or purchased. It took me almost 10 days to build this app from complete scratch\n\nAs challenge recommends to put up a price in about section of app so I would like to charge 0.00$ for this app. Anyone is allowed to use this app for internal use ;) Oh yes of course is available on Github check out my Pinned repositories </string>
+    <string name="challenge">This project was made as a coding challenge by Hitesh Chaudhary Click on the icon below to watch complete challenge</string>
+    <string name="location">MUMBAI, MAHARASHTRA, INDIA</string>
+    <string name="dev_name">NITIN ANAND KALE</string>
+    <string name="dev_type">Android Developer</string>
+</resources>
