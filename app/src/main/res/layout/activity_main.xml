@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="#eeeeee"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -47,6 +48,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@id/random_head"
                 android:background="@drawable/white_box"
+                android:foreground="?attr/selectableItemBackgroundBorderless"
                 android:padding="20dp">
 
                 <ImageView
@@ -103,6 +105,7 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@id/divider"
                 android:background="@drawable/white_box_edge"
+                android:foreground="?attr/selectableItemBackgroundBorderless"
                 android:padding="20dp">
 
                 <ImageView
@@ -171,12 +174,14 @@
 
                 </RelativeLayout>
 
+
                 <RelativeLayout
                     android:id="@+id/about_layout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_below="@id/about_head"
                     android:background="@drawable/white_box_edge"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
                     android:padding="10dp">
 
                     <ImageView
@@ -194,7 +199,7 @@
                         android:layout_marginStart="24dp"
                         android:layout_toEndOf="@id/dev_image"
                         android:fontFamily="@font/montserrat_regular"
-                        android:text="NITIN A. KALE"
+                        android:text="Nitin Kale"
                         android:textColor="@android:color/black"
                         android:textSize="16sp" />
 
